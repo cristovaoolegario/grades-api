@@ -1,2 +1,2 @@
-MONGODB=
-PORT=
+MONGODB=mongodb+srv://mestre:totvs123456@cluster0.lqjrj.gcp.mongodb.net/test?retryWrites=true&w=majority
+PORT=27017
